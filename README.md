@@ -3,5 +3,4 @@ NETWORK
 
 ![The proposed FINet architecture.](results/fig2.jpg)
 
-![EXPERIMENTAL RESULTS OF DIFFERENT DETECTORS ON PVEL-AD-2023 DATASET.](results/table2.jpg)
 
